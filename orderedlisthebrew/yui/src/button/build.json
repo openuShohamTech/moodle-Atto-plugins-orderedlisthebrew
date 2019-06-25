@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_orderedlisthebrew-button",
+  "builds": {
+    "moodle-atto_orderedlisthebrew-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}

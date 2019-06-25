@@ -1,0 +1,7 @@
+{
+    "moodle-atto_orderedlisthebrew-button": {
+        "requires": [
+            "moodle-editor_atto-plugin"
+        ]
+    }
+}
